@@ -1,0 +1,10 @@
+tigre,perro,2,3
+tigre,gato,4,3
+tigre,delfin,5,5
+tigre,liebre,6,6
+perro,gato,5,3
+perro,delfin,4,7
+perro,liebre,5,3
+gato,delfin,2,1
+gato,liebre,4,3
+delfin,liebre,5,6

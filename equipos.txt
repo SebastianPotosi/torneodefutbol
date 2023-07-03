@@ -1,0 +1,5 @@
+tigre
+perro
+gato
+delfin
+liebre
